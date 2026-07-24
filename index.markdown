@@ -4,3 +4,6 @@
 
 layout: home
 ---
+
+- rn: studying math and computer science and Rutgers
+- languages: c, python, java
