@@ -7,3 +7,12 @@ layout: home
 
 - rn: studying math and computer science and Rutgers
 - languages: c, python, java
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+      <span>{{ post.date | date: "%Y-%m-%d" }}</span>
+    </li>
+  {% endfor %}
+</ul>
