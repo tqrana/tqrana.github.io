@@ -16,4 +16,5 @@ a current list of feeds im subscribed to, or things i keep up with
 <br>
 slop:
 <br> - gattsu, geopold, wowmao
-<br> - jvscholz, jkwon <- tech slop (jvscholz is really inspirational)
+<br> - boyboy, ididathing
+<br> - jvscholz, jkwon <- tech slop (jvscholz is inspirational though)
