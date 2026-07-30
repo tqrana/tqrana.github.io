@@ -5,10 +5,10 @@ date:   2026-07-26 18:49:46 -0400
 categories: me
 ---
 
-a current list of feeds im subscribed to, or things i keep up with
+A list of things I keep up with, yt channels, blogs, etc.
 <br>
 
-- <a href="https://geohot.github.io/blog/">george hotz's blog</a>
+<a href="https://geohot.github.io/blog/"> - george hotz's blog</a>
 <br> - tsoding (yt)
 <br> - daniel hirsh (yt), great programming videos
 <br> - Jonathan Blow
